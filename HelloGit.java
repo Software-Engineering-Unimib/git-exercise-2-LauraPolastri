@@ -1,0 +1,1 @@
+System.out.println("Questa è una stampa!")
